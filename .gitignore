@@ -9,6 +9,9 @@ lerna-debug.log*
 
 node_modules
 /node_modules
+.gitignore
+/.gitignore
+.eslintrc.cjs
 dist
 dist-ssr
 *.local
