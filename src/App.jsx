@@ -355,10 +355,190 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="homepage__sharewithshoppe"></div>
-      <div className="homepage__lastestfromblogs"></div>
-      <div className="homepage__subscribe"></div>
-      <div className="homepage__footer"></div>
+      <div className="homepage__sharewithshoppe">
+        <div className="homepage__sharewithshoppe-title">
+          Share With #Shoppes
+        </div>
+        <div className="homepage__sharewithshoppe-subtitle">
+          Follow <span>@shoppes</span> instagram for inspirations
+        </div>
+        <div className="homepage__sharewithshoppe-list">
+          <img
+            src="src\assets\share1.png"
+            alt="share1"
+            className="homepage__sharewithshoppe-list-item"
+          />
+          <img
+            src="src\assets\share2.png"
+            alt="share2"
+            className="homepage__sharewithshoppe-list-item"
+          />
+          <img
+            src="src\assets\share3.png"
+            alt="share3"
+            className="homepage__sharewithshoppe-list-item"
+          />
+          <img
+            src="src\assets\share4.png"
+            alt="share4"
+            className="homepage__sharewithshoppe-list-item"
+          />
+          <img
+            src="src\assets\share5.png"
+            alt="share5"
+            className="homepage__sharewithshoppe-list-item"
+          />
+          <img
+            src="src\assets\share6.png"
+            alt="share6"
+            className="homepage__sharewithshoppe-list-item"
+          />
+        </div>
+      </div>
+      <div className="homepage__lastestfromblogs">
+        <div className="homepage__lastestfromblogs"></div>
+        <div className="homepage__lastestfromblogs-title">
+          Latest From Blogs
+        </div>
+        <div className="homepage__lastestfromblogs-subtitle">
+          Velit officia consequat duis enim velit mollit. Exercitation veniam co
+        </div>
+        <div className="homepage__lastestfromblogs-list">
+          <div className="homepage__lastestfromblogs-list-item">
+            <img
+              src="src\assets\latest1.png"
+              alt="latest1"
+              className="homepage__lastestfromblogs-list-item-img"
+            />
+            <div className="homepage__lastestfromblogs-list-item-title">
+              Lorem ipsum dolor sit amet
+            </div>
+            <div className="homepage__lastestfromblogs-list-item-subtitle">
+              Velit officia consequat duis enim velit mollit. Exercitation
+              veniam consequat sunt nostrud amet.
+            </div>
+            <div className="homepage__lastestfromblogs-list-item-info">
+              <img
+                src="src\assets\avatar-latest1.svg"
+                alt="avatar-latest1"
+                className="homepage__lastestfromblogs-list-item-info-avatar"
+              />
+
+              <div className="homepage__lastestfromblogs-list-item-info-name">
+                Cameron Williamson
+              </div>
+              <div className="homepage__lastestfromblogs-list-item-info-time">
+                8/2/19
+              </div>
+            </div>
+          </div>
+          <div className="homepage__lastestfromblogs-list-item">
+            <img
+              src="src\assets\latest2.png"
+              alt="latest2"
+              className="homepage__lastestfromblogs-list-item-img"
+            />
+            <div className="homepage__lastestfromblogs-list-item-title">
+              Lorem ipsum dolor sit amet
+            </div>
+            <div className="homepage__lastestfromblogs-list-item-subtitle">
+              Velit officia consequat duis enim velit mollit. Exercitation
+              veniam consequat sunt nostrud amet.
+            </div>
+            <div className="homepage__lastestfromblogs-list-item-info">
+              <img
+                src="src\assets\avatar-latest2.svg"
+                alt="avatar-latest2"
+                className="homepage__lastestfromblogs-list-item-info-avatar"
+              />
+
+              <div className="homepage__lastestfromblogs-list-item-info-name">
+                Marvin McKinney
+              </div>
+              <div className="homepage__lastestfromblogs-list-item-info-time">
+                8/2/19
+              </div>
+            </div>
+          </div>
+          <div className="homepage__lastestfromblogs-list-item">
+            <img
+              src="src\assets\latest3.png"
+              alt="latest3"
+              className="homepage__lastestfromblogs-list-item-img"
+            />
+            <div className="homepage__lastestfromblogs-list-item-title">
+              Lorem ipsum dolor sit amet
+            </div>
+            <div className="homepage__lastestfromblogs-list-item-subtitle">
+              Velit officia consequat duis enim velit mollit. Exercitation
+              veniam consequat sunt nostrud amet.
+            </div>
+            <div className="homepage__lastestfromblogs-list-item-info">
+              <img
+                src="src\assets\avatar-latest3.svg"
+                alt="avatar-latest3"
+                className="homepage__lastestfromblogs-list-item-info-avatar"
+              />
+              <div className="homepage__lastestfromblogs-list-item-info-name">
+                Savannah Nguyen
+              </div>
+              <div className="homepage__lastestfromblogs-list-item-info-time">
+                8/2/19
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="homepage__subscribe">
+        <div className="homepage__subscribe-title"></div>
+        <div className="homepage__subscribe-subtitle"></div>
+        <div className="homepage__subscribe-input">
+          <div className="homepage__subscribe-input-email"></div>
+          <div className="homepage__subscribe-input-subcribe"></div>
+        </div>
+      </div>
+      <div className="homepage__footer">
+        <div className="homepage__footer-logo"></div>
+        <div className="homepage__footer-contact">
+          <div className="homepage__footer-contact-item">
+            <div className="homepage__footer-contact-item-title"></div>
+            <div className="homepage__footer-contact-item-subtitle"></div>
+          </div>
+          <div className="homepage__footer-contact-item">
+            <div className="homepage__footer-contact-item-title"></div>
+            <div className="homepage__footer-contact-item-subtitle"></div>
+          </div>
+          <div className="homepage__footer-contact-item">
+            <div className="homepage__footer-contact-item-title"></div>
+            <div className="homepage__footer-contact-item-subtitle"></div>
+          </div>
+        </div>
+        <div className="homepage__footer-menu">
+          <div className="homepage__footer-menu-title"></div>
+          <div className="homepage__footer-menu-item"></div>
+          <div className="homepage__footer-menu-item"></div>
+          <div className="homepage__footer-menu-item"></div>
+          <div className="homepage__footer-menu-item"></div>
+          <div className="homepage__footer-menu-item"></div>
+        </div>
+        <div className="homepage__footer-link">
+          <div className="homepage__footer-link-title"></div>
+          <div className="homepage__footer-link-item"></div>
+          <div className="homepage__footer-link-item"></div>
+          <div className="homepage__footer-link-item"></div>
+        </div>
+        <div className="homepage__footer-input">
+          <div className="homepage__footer-input-item">
+            <div className="homepage__footer-input-item-title"></div>
+            <div className="homepage__footer-input-item-span"></div>
+          </div>
+          <div className="homepage__footer-input-item">
+            <div className="homepage__footer-input-item-title"></div>
+            <div className="homepage__footer-input-item-span"></div>
+          </div>
+          <div className="homepage__footer-slogan"></div>
+        </div>
+      </div>
     </div>
   );
 }

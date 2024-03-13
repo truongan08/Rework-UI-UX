@@ -104,6 +104,38 @@
 
     &__footer {}
 
+    &__footer-contact {}
+
+    &__footer-contact-item {}
+
+    &__footer-contact-item-subtitle {}
+
+    &__footer-contact-item-title {}
+
+    &__footer-input {}
+
+    &__footer-input-item {}
+
+    &__footer-input-item-span {}
+
+    &__footer-input-item-title {}
+
+    &__footer-link {}
+
+    &__footer-link-item {}
+
+    &__footer-link-title {}
+
+    &__footer-logo {}
+
+    &__footer-menu {}
+
+    &__footer-menu-item {}
+
+    &__footer-menu-title {}
+
+    &__footer-slogan {}
+
     &__hero {
         height: 54rem;
     }
@@ -377,12 +409,118 @@
         padding-bottom: 0.81rem;
     }
 
+    &__lastestfromblogs {
+        width: 100%;
+        height: 33.125rem;
+    }
 
-    &__lastestfromblogs {}
+    &__lastestfromblogs-list {}
 
-    &__sharewithshoppe {}
+    &__lastestfromblogs-list-item {}
+
+    &__lastestfromblogs-list-item-img {}
+
+    &__lastestfromblogs-list-item-info {}
+
+    &__lastestfromblogs-list-item-info-avatar {}
+
+    &__lastestfromblogs-list-item-info-name {}
+
+    &__lastestfromblogs-list-item-info-time {}
+
+    &__lastestfromblogs-list-item-subtitle {}
+
+    &__lastestfromblogs-list-item-title {}
+
+    &__lastestfromblogs-subtitle {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #878690;
+        text-align: center;
+        font-size: 0.875rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.5rem;
+        margin-top: 1rem;
+    }
+
+    &__lastestfromblogs-title {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #100D22;
+        text-align: center;
+        font-family: Anton;
+        font-size: 3.125rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 124.537%;
+        margin-top: 7.5rem;
+    }
+
+    &__sharewithshoppe {
+        width: 100%;
+        height: 21rem;
+    }
+
+    &__sharewithshoppe-list {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 1.5rem;
+        margin-top: 4rem;
+        height: 10.625rem;
+    }
+
+    // &__sharewithshoppe-list-item {}
+
+    &__sharewithshoppe-subtitle {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #878690;
+        text-align: right;
+        font-size: 0.875rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.5rem;
+        margin-top: 1rem;
+
+        span {
+            color: #100D22;
+            font-size: 0.875rem;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 1.5rem;
+        }
+    }
+
+    &__sharewithshoppe-title {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #100D22;
+        font-family: Anton;
+        font-size: 3.125rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 124.537%;
+        margin-top: 7.5rem;
+    }
 
     &__subscribe {}
+
+    &__subscribe-input {}
+
+    &__subscribe-input-email {}
+
+    &__subscribe-input-subcribe {}
+
+    &__subscribe-subtitle {}
+
+    &__subscribe-title {}
 
     &__trustby {
         width: 100%;
