@@ -414,11 +414,25 @@
         height: 33.125rem;
     }
 
-    &__lastestfromblogs-list {}
+    &__lastestfromblogs-list {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 1.5rem;
+        height: 22.6rem;
+        margin-top: 4rem;
+    }
 
-    &__lastestfromblogs-list-item {}
+    &__lastestfromblogs-list-item {
+        width: 22.75rem;
+        height: 22.75rem;
+    }
 
-    &__lastestfromblogs-list-item-img {}
+    &__lastestfromblogs-list-item-img {
+        width: 22.75rem;
+        height: 12.5rem;
+    }
 
     &__lastestfromblogs-list-item-info {}
 
@@ -430,7 +444,13 @@
 
     &__lastestfromblogs-list-item-subtitle {}
 
-    &__lastestfromblogs-list-item-title {}
+    &__lastestfromblogs-list-item-title {
+        color: #100D22;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
 
     &__lastestfromblogs-subtitle {
         display: flex;

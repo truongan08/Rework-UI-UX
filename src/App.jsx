@@ -396,7 +396,6 @@ function App() {
         </div>
       </div>
       <div className="homepage__lastestfromblogs">
-        <div className="homepage__lastestfromblogs"></div>
         <div className="homepage__lastestfromblogs-title">
           Latest From Blogs
         </div>
