@@ -422,12 +422,13 @@ function App() {
                 alt="avatar-latest1"
                 className="homepage__lastestfromblogs-list-item-info-avatar"
               />
-
-              <div className="homepage__lastestfromblogs-list-item-info-name">
-                Cameron Williamson
-              </div>
-              <div className="homepage__lastestfromblogs-list-item-info-time">
-                8/2/19
+              <div className="homepage__lastestfromblogs-list-item-info-wrapper">
+                <div className="homepage__lastestfromblogs-list-item-info-wrapper-name">
+                  Cameron Williamson
+                </div>
+                <div className="homepage__lastestfromblogs-list-item-info-wrapper-time">
+                  8/2/19
+                </div>
               </div>
             </div>
           </div>
@@ -450,12 +451,13 @@ function App() {
                 alt="avatar-latest2"
                 className="homepage__lastestfromblogs-list-item-info-avatar"
               />
-
-              <div className="homepage__lastestfromblogs-list-item-info-name">
-                Marvin McKinney
-              </div>
-              <div className="homepage__lastestfromblogs-list-item-info-time">
-                8/2/19
+              <div className="homepage__lastestfromblogs-list-item-info-wrapper">
+                <div className="homepage__lastestfromblogs-list-item-info-wrapper-name">
+                  Cameron Williamson
+                </div>
+                <div className="homepage__lastestfromblogs-list-item-info-wrapper-time">
+                  8/2/19
+                </div>
               </div>
             </div>
           </div>
@@ -478,11 +480,13 @@ function App() {
                 alt="avatar-latest3"
                 className="homepage__lastestfromblogs-list-item-info-avatar"
               />
-              <div className="homepage__lastestfromblogs-list-item-info-name">
-                Savannah Nguyen
-              </div>
-              <div className="homepage__lastestfromblogs-list-item-info-time">
-                8/2/19
+              <div className="homepage__lastestfromblogs-list-item-info-wrapper">
+                <div className="homepage__lastestfromblogs-list-item-info-wrapper-name">
+                  Cameron Williamson
+                </div>
+                <div className="homepage__lastestfromblogs-list-item-info-wrapper-time">
+                  8/2/19
+                </div>
               </div>
             </div>
           </div>
